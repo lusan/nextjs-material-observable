@@ -1,0 +1,20 @@
+{
+  "name": "custom-server-koa",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "NODE_ENV=production node server.js"
+  },
+  "dependencies": {
+    "@material-ui/core": "^3.9.2",
+    "jss": "latest",
+    "react-jss": "^8.1.0",
+    "prop-types": "latest",
+    "koa": "^2.0.1",
+    "koa-router": "^7.1.0",
+    "next": "latest",
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  }
+}
