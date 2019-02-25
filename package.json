@@ -9,12 +9,21 @@
   "dependencies": {
     "@material-ui/core": "^3.9.2",
     "jss": "latest",
-    "react-jss": "^8.1.0",
-    "prop-types": "latest",
     "koa": "^2.0.1",
     "koa-router": "^7.1.0",
     "next": "latest",
+    "next-redux-wrapper": "^3.0.0-alpha.1",
+    "prop-types": "latest",
     "react": "^16.7.0",
-    "react-dom": "^16.7.0"
+    "react-dom": "^16.7.0",
+    "react-jss": "^8.1.0",
+    "react-redux": "^6.0.1",
+    "redux": "^4.0.1",
+    "redux-devtools": "^3.5.0",
+    "redux-logger": "^3.0.6",
+    "redux-observable": "^1.0.0",
+    "redux-thunk": "^2.3.0",
+    "rxjs": "^6.4.0",
+    "universal-rxjs-ajax": "^2.0.1"
   }
 }
